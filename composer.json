@@ -1,13 +1,12 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "glxe/douyin",
     "description": "",
     "keywords": [
-        "swagger",
-        "php",
-        "sdk",
+        "douyin",
+        "open",
         "api"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://github.com/glxe/douyin.git",
     "license": "proprietary",
     "authors": [
         {
