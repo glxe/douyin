@@ -1,0 +1,11 @@
+## 版本要求
+
+PHP 5.5 and later
+
+## 安装
+### Composer
+
+请先安装下载 [Composer](http://getcomposer.org/)
+
+
+然后运行 `composer install`
